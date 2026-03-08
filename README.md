@@ -60,33 +60,19 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Repositories-50+-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Commits-1000+-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Production%20Deployments-8+-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Coding%20Since-2021-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Systems%20Built-00C2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Repositories-52-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Commits-1000+-brightgreen?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Production%20Deployments-8+-orange?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Coding%20Since-2021-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Systems%20Built-00C2FF?style=for-the-badge"/>
 
 </p>
 
 <p align="center">
 
 <b>526+</b> public GitHub contributions • 
-<b>50+</b> repositories • 
+<b>52</b> repositories • 
 <b>8+</b> production systems deployed
-
-</p>
-
-## 📊 Engineering Activity
-
-<p align="center">
-
-<img width="420" src="https://github-readme-stats-inky-beta-96.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="420" src="https://github-readme-stats-inky-beta-96.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
