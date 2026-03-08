@@ -10,25 +10,21 @@
 
 Software Developer **@ Zarthi** building **production-grade full-stack systems** with scalable backend architecture and AI integrations.
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Stack-MERN-4CAF50?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Framework-Next.js-555555?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/API-REST%20%7C%20GraphQL-FF9800?style=flat-square"/>
-
 <img src="https://img.shields.io/badge/AI-Integration-1E88E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/System-Design-E53935?style=flat-square"/>
 <img src="https://img.shields.io/badge/Architecture-Microservices-8E24AA?style=flat-square"/>
-
 <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Build-Production%20Apps-424242?style=flat-square"/>
 
 </p>
@@ -37,7 +33,7 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 ## ⚡ Core Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,flask,python,mongodb,postgres,redis,docker,aws,linux,git,githubactions,graphql,jest"/>
 
@@ -47,17 +43,27 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 ## 🏗 Featured Projects
 
-**NirogSathi**
+<p align="center">
+
+<b>NirogSathi</b>  
 AI-powered healthcare platform with appointment system and disease prediction.
 
-**SkyHutCafe**
-Production restaurant automation platform with QR ordering and order lifecycle management.
+<br/>
 
-**Smart Expense Tracker**
-Cross-platform finance application with analytics dashboards.
+<b>SkyHutCafe</b>  
+Restaurant automation platform with QR ordering and order lifecycle management.
 
-**RailNetra**
-AI-based railway monitoring system using computer vision models.
+<br/>
+
+<b>Smart Expense Tracker</b>  
+Cross-platform finance tracking application with analytics dashboard.
+
+<br/>
+
+<b>RailNetra</b>  
+AI-powered railway monitoring system using computer vision models.
+
+</p>
 
 ---
 
@@ -65,9 +71,9 @@ AI-based railway monitoring system using computer vision models.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -99,22 +105,22 @@ AI-based railway monitoring system using computer vision models.
 
 ## 🏆 Achievements
 
-🥇 Winner — SISTec National Innovation Hackathon
-🥈 Runner-up — Lake City Hackathon
-🏅 Finalist — Smart India Hackathon
+🥇 Winner — SISTec National Innovation Hackathon  
+🥈 Runner-up — Lake City Hackathon  
+🏅 Finalist — Smart India Hackathon  
 
 ---
 
 ## 🤝 Connect
 
-LinkedIn
-https://www.linkedin.com/in/harsh-kamde
+LinkedIn  
+https://www.linkedin.com/in/harsh-kamde  
 
-GitHub
-https://github.com/harsh-kamde
+GitHub  
+https://github.com/harsh-kamde  
 
-Email
-[harshkamde4321@gmail.com](mailto:harshkamde4321@gmail.com)
+Email  
+harshkamde4321@gmail.com  
 
 ---
 
