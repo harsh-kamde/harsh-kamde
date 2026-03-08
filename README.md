@@ -13,11 +13,19 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 <p align="center">
 
 <img src="https://img.shields.io/badge/MERN-FullStack-4CAF50?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-Integration-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/System-Design-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microservices-Architecture-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud-AWS-yellow?style=flat-square"/>
-<img src="https://img.shields.io/badge/Production-Systems-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-Integration-1E88E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/System-Design-FF7043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-8E24AA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/API-Design-FF9800?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database-Design-43A047?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scalable-Systems-546E7A?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square"/>
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Production-Systems-424242?style=flat-square"/>
 
 </p>
 
@@ -27,7 +35,7 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,flask,python,mongodb,postgres,redis,docker,aws,linux,git,githubactions,graphql,jest&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,nodejs,express,flask,python,mongodb,postgres,redis,prisma,docker,kubernetes,aws,linux,git,githubactions,graphql,jest,postman,kafka&perline=9" />
 
 </p>
 
