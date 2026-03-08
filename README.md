@@ -23,7 +23,7 @@ Experienced in designing **scalable backend architectures, clean REST APIs, and 
 <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square"/>
 <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/AI-ML-FF9900?style=flat-square"/>
 <img src="https://img.shields.io/badge/Production-Systems-424242?style=flat-square"/>
 
 </p>
