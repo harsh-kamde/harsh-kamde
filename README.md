@@ -10,6 +10,10 @@ Full Stack Developer | MERN | AI Integration
 
 ---
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=harsh-kamde&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 ## 🚀 About Me
 
 Software Developer **@ Zarthi** building **production-grade full-stack systems** with scalable backend architecture and AI integrations.
@@ -26,11 +30,22 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 ---
 
-## ⚡ Core Tech Stack
+## ⚡ Tech Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,flask,mongodb,postgres,redis,python,docker,aws,linux"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
 
 </p>
 
@@ -38,35 +53,23 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 ## 🏗 Featured Projects
 
-### 🏥 NirogSathi
-
-React • Node.js • MongoDB • AI
-
-AI healthcare platform with appointment management and disease prediction.
+**NirogSathi** <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/> <img src="https://img.shields.io/badge/AI-blue?style=flat-square"/>
+AI healthcare platform with appointment system and disease prediction.
 
 ---
 
-### 🍽 SkyHutCafe
-
-React • Node.js • MongoDB
-
-Restaurant automation system with QR ordering and real-time order workflow.
+**SkyHutCafe** <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+Restaurant automation system with QR ordering workflow.
 
 ---
 
-### 📱 Smart Expense Tracker
-
-React Native • Node.js • PostgreSQL
-
-Cross-platform expense tracking application with analytics dashboards.
+**Smart Expense Tracker** <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
+Mobile finance tracker with analytics dashboard.
 
 ---
 
-### 🚆 RailNetra
-
-Python • Computer Vision • ML
-
-AI-powered railway monitoring system using computer vision models.
+**RailNetra** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/ComputerVision-blue?style=flat-square"/>
+AI based railway monitoring system using computer vision.
 
 ---
 
@@ -82,9 +85,9 @@ AI-powered railway monitoring system using computer vision models.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
