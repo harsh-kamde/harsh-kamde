@@ -60,9 +60,13 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight"/>
+<img width="420" src="https://github-readme-stats-inky-beta-96.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img width="420" src="https://github-readme-stats-inky-beta-96.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
