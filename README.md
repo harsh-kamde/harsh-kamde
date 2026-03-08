@@ -56,6 +56,26 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 ---
 
+## 📊 Engineering Metrics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Repositories-50+-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Commits-1000+-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Production%20Deployments-8+-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Coding%20Since-2021-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Systems%20Built-00C2FF?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<b>526+</b> public GitHub contributions • 
+<b>50+</b> repositories • 
+<b>8+</b> production systems deployed
+
+</p>
+
 ## 📊 Engineering Activity
 
 <p align="center">
