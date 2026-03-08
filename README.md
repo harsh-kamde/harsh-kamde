@@ -35,7 +35,11 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,nodejs,express,flask,python,mongodb,postgres,redis,prisma,docker,kubernetes,aws,linux,git,githubactions,graphql,jest,postman,kafka&perline=12" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,nodejs,express,flask,python,mongodb,postgres,redis&perline=12" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=prisma,docker,kubernetes,aws,linux,git,githubactions,graphql,jest,postman&perline=10" />
 
 </p>
 
