@@ -43,24 +43,25 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 ## 🏗 Featured Projects
 
-**NirogSathi**  
+### **NirogSathi**
 AI-powered healthcare platform with appointment management and disease prediction.  
 🔗 https://www.nirogsathi.com
 
 ---
 
-**SkyHutCafe**  
+### **SkyHutCafe**
 Restaurant automation platform with QR ordering and real-time order lifecycle management.  
 🔗 https://www.skyhutcafe.in
 
 ---
 
-**Smart Expense Tracker**  
-Cross-platform finance tracking application with analytics dashboards.
+### **SISTec SIH Platform**
+Hackathon management platform used for team registrations, evaluation workflows, and coordination.  
+🔗 https://www.sistecrsih.in
 
 ---
 
-**RailNetra**  
+### **RailNetra**
 AI-powered railway monitoring system using computer vision models.
 
 ---
