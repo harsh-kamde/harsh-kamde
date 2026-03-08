@@ -60,19 +60,18 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Repositories-52-blue?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Commits-1000+-brightgreen?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/Production%20Deployments-8+-orange?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Coding%20Since-2021-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Systems%20Built-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repositories-52-0366d6?style=flat&logo=github&logoColor=white" alt="Repositories"/>
+<img src="https://img.shields.io/badge/Commits-1000%2B-2ea44f?style=flat&logo=git&logoColor=white" alt="Commits"/>
+<img src="https://img.shields.io/badge/Production%20Deployments-8%2B-f66a0a?style=flat&logo=docker&logoColor=white" alt="Production Deployments"/>
+<img src="https://img.shields.io/badge/Coding%20Since-2021-6f42c1?style=flat&logoColor=white" alt="Coding Since"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/GitHub%20Contributions-526+-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Repositories-52-blue?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Production%20Systems-8+-orange?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/GitHub%20Contributions-526%2B-181717?style=flat&logo=github&logoColor=white" alt="GitHub Contributions"/>
+<img src="https://img.shields.io/badge/Repositories-52-0366d6?style=flat&logo=github&logoColor=white" alt="Repositories"/>
+<img src="https://img.shields.io/badge/Production%20Systems-8%2B-f66a0a?style=flat&logo=docker&logoColor=white" alt="Production Systems"/>
 
 </p>
 
