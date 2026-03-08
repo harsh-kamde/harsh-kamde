@@ -31,28 +31,6 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 ---
 
-## 📊 Engineering Metrics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Repositories-52-blue?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Commits-1000+-brightgreen?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/Production%20Deployments-8+-orange?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Coding%20Since-2021-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Systems%20Built-00C2FF?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/GitHub%20Contributions-526+-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Repositories-52-blue?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Production%20Systems-8+-orange?style=for-the-badge&logo=docker"/>
-
-</p>
-
----
-
 ## ⚡ Core Tech Stack
 
 <p align="center">
@@ -75,6 +53,28 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 | **SkyHutCafe** | Restaurant automation system with QR-based ordering and real-time order lifecycle management. | https://www.skyhutcafe.in |
 | **SISTec SIH Platform** | Hackathon management platform for team registrations, evaluation workflows, and coordination. | https://www.sistecrsih.in |
 | **RailNetra** | AI-powered railway monitoring system using computer vision models. | — |
+
+---
+
+## 📊 Engineering Metrics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Repositories-52-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Commits-1000+-brightgreen?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Production%20Deployments-8+-orange?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Coding%20Since-2021-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Systems%20Built-00C2FF?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GitHub%20Contributions-526+-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repositories-52-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Production%20Systems-8+-orange?style=for-the-badge&logo=docker"/>
+
+</p>
 
 ---
 
