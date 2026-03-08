@@ -45,11 +45,19 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 ---
 
-## 🏆 Achievements
+## 🏗 Featured Projects
 
-🥇 Winner — SISTec National Innovation Hackathon
-🥈 Runner-up — Lake City Hackathon
-🏅 Finalist — Smart India Hackathon
+**NirogSathi**
+AI-powered healthcare platform with appointment system and disease prediction.
+
+**SkyHutCafe**
+Production restaurant automation platform with QR ordering and order lifecycle management.
+
+**Smart Expense Tracker**
+Cross-platform finance application with analytics dashboards.
+
+**RailNetra**
+AI-based railway monitoring system using computer vision models.
 
 ---
 
@@ -89,6 +97,14 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 ---
 
+## 🏆 Achievements
+
+🥇 Winner — SISTec National Innovation Hackathon
+🥈 Runner-up — Lake City Hackathon
+🏅 Finalist — Smart India Hackathon
+
+---
+
 ## 🤝 Connect
 
 LinkedIn
@@ -102,4 +118,4 @@ Email
 
 ---
 
-⭐ Building scalable **AI-powered full-stack scalable systems**
+⭐ Building scalable **AI-powered full-stack systems**
