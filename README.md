@@ -1,82 +1,82 @@
 <h1 align="center">Hi 👋 I'm Harsh Kamde</h1>
 
 <h3 align="center">
-AI-Integrated Full Stack Developer | MERN | Distributed Systems
+AI-Integrated Full Stack Developer | MERN | Scalable Systems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+(MERN+Next.Js);Software+Developer+%40+Zarthi;AI+%2B+Scalable+Web+Systems;Cloud+CI/CD+%7C+APIs+%7C+System+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Developer+%40+Zarthi;Full+Stack+Engineer+(MERN+%2B+Next.js);Building+Production+Ready+Applications;AI+Integrated+Web+Systems;Cloud+%7C+System+Design+%7C+Distributed+Systems" />
 </p>
 
 ---
 
-## 🚀 About
+## 🚀 About Me
 
-Software Developer **@ Zarthi** building **production-grade full-stack systems**.
+Software Developer **@ Zarthi** with **2+ years of experience building production-grade full-stack applications**.
 
-I specialize in:
+Focused on developing **scalable web systems with AI integration**, clean backend architecture, and cloud deployments.
 
-• MERN stack development
-• AI / ML integrations in web apps
+**Core Focus**
+
+• Production-ready full-stack applications
+• AI / ML integration in web platforms
 • scalable backend architecture
-• high performance APIs
-• cloud deployments
-
-2+ years experience delivering **real production applications** used by active users.
+• high-performance REST APIs
+• cloud-native deployments
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-**Frontend**
+### Frontend
 
-React • Next.js • TypeScript • Redux • TailwindCSS
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+</p>
 
-**Backend**
+### Backend
 
-Node.js • Express • Flask
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+</p>
 
-**Databases**
+### Databases
 
-PostgreSQL • MongoDB • MySQL • Redis
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+</p>
 
-**AI / ML**
+### AI / ML
 
-Python • TensorFlow • ML APIs
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+</p>
 
-**Infrastructure**
+### Cloud & Infrastructure
 
-Docker • Nginx • Linux
-AWS • GCP • Azure
-Kafka • CI/CD
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+</p>
 
 ---
 
-## 🏗 Key Projects
-
-**NirogSathi**
-AI-powered healthcare platform with multi-role architecture and disease prediction.
-
-**SkyHutCafe**
-Production restaurant automation platform with QR ordering and real-time order management.
-
-**Smart Expense Tracker**
-Cross-platform finance application with analytics dashboards.
-
-**RailNetra**
-AI powered railway monitoring system using computer vision.
-
----
-
-## 🏆 Achievements
-
-🥇 Winner — SISTec National Hackathon
-🥈 Runner-up — Lake City Hackathon
-🏅 Finalist — Smart India Hackathon
-
----
-
-## 📊 Engineering Stats
+# 📊 Engineering Activity
 
 <p align="center">
 
@@ -88,7 +88,7 @@ AI powered railway monitoring system using computer vision.
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=harsh-kamde&theme=tokyonight&hide_border=true"/>
@@ -96,7 +96,49 @@ AI powered railway monitoring system using computer vision.
 
 ---
 
-## 📈 Contribution Activity
+# 🏗 Featured Projects
+
+### 🏥 NirogSathi
+
+AI-powered healthcare platform supporting **patients, doctors, and administrators** with disease prediction and appointment systems.
+
+Tech: React • Node.js • MongoDB • Python
+
+---
+
+### 🍽 SkyHutCafe
+
+Production restaurant automation system with **QR-based ordering and real-time kitchen management**.
+
+Tech: React • Node.js • MongoDB
+
+---
+
+### 📱 Smart Expense Tracker
+
+Cross-platform finance tracking application with **analytics dashboards and secure APIs**.
+
+Tech: React Native • Node.js • PostgreSQL
+
+---
+
+### 🚆 RailNetra
+
+AI-based railway monitoring system using **computer vision models for automated detection**.
+
+Tech: Python • ML • Mobile Integration
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner — SISTec National Innovation Hackathon
+🥈 Runner-up — Lake City Hackathon
+🏅 Finalist — Smart India Hackathon
+
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-kamde&theme=react-dark"/>
@@ -104,25 +146,17 @@ AI powered railway monitoring system using computer vision.
 
 ---
 
-## 🐍 Contribution Snake
+# 🤝 Connect
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+**LinkedIn**
+https://www.linkedin.com/in/harsh-kamde
 
----
+**GitHub**
+https://github.com/harsh-kamde
 
-## 🤝 Connect
-
-LinkedIn
-[www.linkedin.com/in/harsh-kamde](http://www.linkedin.com/in/harsh-kamde)
-
-GitHub
-github.com/harsh-kamde
-
-Email
+**Email**
 [harshkamde4321@gmail.com](mailto:harshkamde4321@gmail.com)
 
 ---
 
-⭐ Building scalable software systems.
+⭐ Building scalable **AI-powered full-stack systems**
