@@ -66,6 +66,7 @@ Experienced in designing **scalable backend architectures, clean REST APIs, and 
 <img src="https://img.shields.io/badge/GitHub%20Contributions-526%2B-181717?style=flat&logo=github&logoColor=white" alt="GitHub Contributions"/>
 <img src="https://img.shields.io/badge/Repositories-52-0366d6?style=flat&logo=github&logoColor=white" alt="Repositories"/>
 <img src="https://img.shields.io/badge/Production%20Systems-8%2B-f66a0a?style=flat&logo=docker&logoColor=white" alt="Production Systems"/>
+
 </p>
 
 ## 🔥 Contribution Streak
