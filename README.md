@@ -9,8 +9,7 @@
 ## 🚀 About Me
 
 Software Developer **@ Zarthi** building **production-grade full-stack systems** using the MERN stack and modern cloud platforms.  
-Experienced in designing **scalable backend architectures, clean REST APIs, and high-performance web applications** deployed in real production environments.  
-Passionate about **AI-integrated applications, distributed systems, and solving complex engineering problems at scale.**
+Experienced in designing **scalable backend architectures, clean REST APIs, and high-performance web applications** deployed in real production environments. Passionate about **AI-integrated applications, distributed systems, and solving complex engineering problems at scale.**
 
 <p align="center">
 
