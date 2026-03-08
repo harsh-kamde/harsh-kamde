@@ -103,15 +103,26 @@ Experienced in designing **scalable backend architectures, clean REST APIs, and 
 
 ## 🤝 Connect
 
-LinkedIn  
-https://www.linkedin.com/in/harsh-kamde  
+<p align="center">
 
-GitHub  
-https://github.com/harsh-kamde  
+<a href="https://www.linkedin.com/in/harsh-kamde" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-Email  
-harshkamde4321@gmail.com
+<a href="https://github.com/harsh-kamde" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:harshkamde4321@gmail.com">
+<img src="https://img.shields.io/badge/Email-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
 
 ---
 
-⭐ Building scalable **AI-powered full-stack systems**
+<p align="center">
+
+<img src="https://img.shields.io/badge/⭐%20❤️%20🚀%20💻%20⚡%20🔥-Building%20Scalable%20AI%20Full-Stack%20Systems-00C2FF?style=for-the-badge&logoColor=white"/>
+
+</p>
