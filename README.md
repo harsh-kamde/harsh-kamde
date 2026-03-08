@@ -1,156 +1,99 @@
 <h1 align="center">Hi 👋 I'm Harsh Kamde</h1>
 
 <h3 align="center">
-Full Stack Engineer | MERN Stack | AI/ML Integration | System Design
+AI Powered Full-Stack Developer | MERN | Scalable Systems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;MERN+Stack+Developer;Building+Scalable+Systems;AI+Integrated+Web+Applications;System+Design+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%40+Zarthi;Full+Stack+Engineer+(MERN);AI+Integrated+Web+Applications;Backend+%7C+System+Design+%7C+Cloud" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-Full Stack Developer with **2+ years of experience building production-grade applications** using **React, Next.js, Node.js, PostgreSQL, and MongoDB**.
+Software Developer **@ Zarthi** with **2+ years experience building production systems**.
 
-Experienced in **designing scalable backend systems, REST APIs, authentication workflows, and deploying applications on cloud infrastructure.**
+I build **AI-integrated full-stack applications** with focus on:
 
-Currently working as **Jr. Associate Developer @ Zarthi**, contributing to **enterprise-grade full-stack systems serving thousands of users.**
+• scalable backend systems
+• clean API architecture
+• high performance applications
+• cloud deployment
 
-💡 Interests
-
-• System Design
-• Backend Architecture
-• AI + Web Applications
-• Performance Optimization
-• Cloud Infrastructure
+Tech focus: **MERN + AI/ML integrations**
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-### Frontend
+**Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind"/>
-</p>
+React • Next.js • TypeScript • Redux • Tailwind
 
-### Backend
+**Backend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-</p>
+Node.js • Express • Flask • REST APIs
 
-### Databases
+**Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
-</p>
+PostgreSQL • MongoDB • MySQL • Redis
 
-### AI / ML
+**AI / ML**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-</p>
+Python • TensorFlow • ML APIs
 
-### DevOps
+**Infrastructure**
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,vercel"/>
-</p>
+Docker • Nginx • Linux
+AWS • GCP • Azure
+Kafka • CI/CD
 
 ---
 
-# 🏗 Featured Engineering Projects
+## 🏗 Featured Projects
 
-### 🏥 NirogSathi — AI Powered Healthcare Platform
+**NirogSathi**
+AI-powered healthcare platform with appointment management and disease prediction.
 
-Production healthcare platform supporting **patients, doctors and administrators**.
-
-Key Contributions:
-
-• Built full-stack architecture using **React + Node.js**
-• Implemented **AI based disease prediction modules**
-• Designed appointment system handling **1000+ bookings**
-• Secured APIs using **role-based authentication**
-
-Live:
-https://www.nirogsathi.com
+Tech: React • Node.js • MongoDB • Python
 
 ---
 
-### 🍽 SkyHutCafe — Restaurant Automation Platform
+**SkyHutCafe**
+Production restaurant platform with QR ordering and real-time order management.
 
-End-to-end restaurant management platform used by a **live cafe business**.
-
-Key Contributions:
-
-• Built **QR based table ordering system**
-• Designed scalable backend for **order lifecycle management**
-• Implemented **real-time kitchen order notifications**
-• Reduced manual ordering workload by **~20%**
-
-Live:
-https://www.skyhutcafe.in
+Tech: React • Node.js • MongoDB
 
 ---
 
-### 📱 Smart Expense Tracker — Mobile Finance App
+**Smart Expense Tracker**
+Cross-platform finance tracking app with analytics dashboard.
 
-Cross-platform mobile application for **expense tracking and budgeting**.
-
-Features:
-
-• Built using **React Native + Node.js + PostgreSQL**
-• Real-time **budget analytics dashboards**
-• REST APIs for secure financial data handling
-• Structured relational database architecture
+Tech: React Native • Node.js • PostgreSQL
 
 ---
 
-### 🚆 Rail Netra — AI Powered Railway Monitoring
+**Rail Netra**
+AI based railway monitoring system using computer vision models.
 
-Machine learning based system for **railway environment monitoring**.
-
-Highlights:
-
-• Computer vision models for automated detection
-• Mobile application integration
-• AI assisted railway monitoring workflows
+Tech: Python • ML • Mobile Integration
 
 ---
 
-### 🎓 SIH Management Platform
+## 🏆 Achievements
 
-Platform designed for **hackathon team management and evaluation**.
-
-Highlights:
-
-• Managed **70+ teams across multiple states**
-• Built **admin dashboard for evaluation workflows**
-• Optimized **database schema and API architecture**
-
-Live:
-https://www.sistecrsih.in
+🥇 Winner — SISTec National Hackathon
+🥈 Runner-up — Lake City Hackathon
+🏅 Finalist — Smart India Hackathon
 
 ---
 
-# 🏆 Achievements
-
-🥇 Winner – SISTec National Innovation Hackathon
-🥈 Runner-up – Lake City Hackathon
-🏅 Finalist – Smart India Hackathon 2023
-
-Led engineering teams in **rapid prototype development and system design challenges.**
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -158,23 +101,17 @@ Led engineering teams in **rapid prototype development and system design challen
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=harsh-kamde&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-kamde&theme=react-dark"/>
-</p>
-
----
-
-# 🤝 Connect With Me
+## 🤝 Connect
 
 LinkedIn
 https://linkedin.com/in/harsh-kamde
@@ -184,7 +121,3 @@ https://github.com/harsh-kamde
 
 Email
 [harshkamde4321@gmail.com](mailto:harshkamde4321@gmail.com)
-
----
-
-⭐️ From **Harsh Kamde**
