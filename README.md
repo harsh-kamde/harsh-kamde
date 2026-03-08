@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%40+Zarthi;MERN+Full+Stack+Engineer;AI+Integrated+Applications;Scalable+Backend+Systems"/>
 </p>
-
 ## 🚀 About Me
 
 Software Developer **@ Zarthi** building **production-grade full-stack systems** using the MERN stack and modern cloud platforms.  
@@ -67,7 +66,6 @@ Experienced in designing **scalable backend architectures, clean REST APIs, and 
 <img src="https://img.shields.io/badge/Repositories-52-0366d6?style=flat&logo=github&logoColor=white" alt="Repositories"/>
 <img src="https://img.shields.io/badge/Production%20Systems-8%2B-f66a0a?style=flat&logo=docker&logoColor=white" alt="Production Systems"/>
 </p>
----
 
 ## 🔥 Contribution Streak
 
