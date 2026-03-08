@@ -1,39 +1,40 @@
 <h1 align="center">Hi 👋 I'm Harsh Kamde</h1>
 
 <h3 align="center">
-AI Powered Full-Stack Developer | MERN | Scalable Systems
+AI-Integrated Full Stack Developer | MERN | Distributed Systems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%40+Zarthi;Full+Stack+Engineer+(MERN);AI+Integrated+Web+Applications;Backend+%7C+System+Design+%7C+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+(MERN+Next.Js);Software+Developer+%40+Zarthi;AI+%2B+Scalable+Web+Systems;Cloud+CI/CD+%7C+APIs+%7C+System+Design" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-Software Developer **@ Zarthi** with **2+ years experience building production systems**.
+Software Developer **@ Zarthi** building **production-grade full-stack systems**.
 
-I build **AI-integrated full-stack applications** with focus on:
+I specialize in:
 
-• scalable backend systems
-• clean API architecture
-• high performance applications
-• cloud deployment
+• MERN stack development
+• AI / ML integrations in web apps
+• scalable backend architecture
+• high performance APIs
+• cloud deployments
 
-Tech focus: **MERN + AI/ML integrations**
+2+ years experience delivering **real production applications** used by active users.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Tech Stack
 
 **Frontend**
 
-React • Next.js • TypeScript • Redux • Tailwind
+React • Next.js • TypeScript • Redux • TailwindCSS
 
 **Backend**
 
-Node.js • Express • Flask • REST APIs
+Node.js • Express • Flask
 
 **Databases**
 
@@ -51,33 +52,19 @@ Kafka • CI/CD
 
 ---
 
-## 🏗 Featured Projects
+## 🏗 Key Projects
 
 **NirogSathi**
-AI-powered healthcare platform with appointment management and disease prediction.
-
-Tech: React • Node.js • MongoDB • Python
-
----
+AI-powered healthcare platform with multi-role architecture and disease prediction.
 
 **SkyHutCafe**
-Production restaurant platform with QR ordering and real-time order management.
-
-Tech: React • Node.js • MongoDB
-
----
+Production restaurant automation platform with QR ordering and real-time order management.
 
 **Smart Expense Tracker**
-Cross-platform finance tracking app with analytics dashboard.
+Cross-platform finance application with analytics dashboards.
 
-Tech: React Native • Node.js • PostgreSQL
-
----
-
-**Rail Netra**
-AI based railway monitoring system using computer vision models.
-
-Tech: Python • ML • Mobile Integration
+**RailNetra**
+AI powered railway monitoring system using computer vision.
 
 ---
 
@@ -89,24 +76,38 @@ Tech: Python • ML • Mobile Integration
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=harsh-kamde&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-kamde&theme=react-dark"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -114,10 +115,14 @@ Tech: Python • ML • Mobile Integration
 ## 🤝 Connect
 
 LinkedIn
-https://linkedin.com/in/harsh-kamde
+[www.linkedin.com/in/harsh-kamde](http://www.linkedin.com/in/harsh-kamde)
 
 GitHub
-https://github.com/harsh-kamde
+github.com/harsh-kamde
 
 Email
 [harshkamde4321@gmail.com](mailto:harshkamde4321@gmail.com)
+
+---
+
+⭐ Building scalable software systems.
