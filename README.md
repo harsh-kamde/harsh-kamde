@@ -10,66 +10,42 @@ Full Stack Developer | MERN | AI Integration
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=harsh-kamde&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 ## 🚀 About Me
 
 Software Developer **@ Zarthi** building **production-grade full-stack systems** with scalable backend architecture and AI integrations.
 
 <p>
 
-<img src="https://img.shields.io/badge/MERN-FullStack-3C873A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stack-MERN-3C873A?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Framework-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/API-REST%20%7C%20GraphQL-orange?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/AI-Integration-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/System-Design-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud-Native-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Production-Apps-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/System-Design-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Architecture-Microservices-purple?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-darkgreen?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Build-Production%20Ready%20Apps-black?style=flat-square"/>
 
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Core Tech Stack
 
 <p>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,flask,mongodb,postgres,redis,python,docker,aws,linux"/>
 
 </p>
-
----
-
-## 🏗 Featured Projects
-
-**NirogSathi** <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/> <img src="https://img.shields.io/badge/AI-blue?style=flat-square"/>
-AI healthcare platform with appointment system and disease prediction.
-
----
-
-**SkyHutCafe** <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-Restaurant automation system with QR ordering workflow.
-
----
-
-**Smart Expense Tracker** <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
-Mobile finance tracker with analytics dashboard.
-
----
-
-**RailNetra** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/ComputerVision-blue?style=flat-square"/>
-AI based railway monitoring system using computer vision.
 
 ---
 
@@ -85,9 +61,9 @@ AI based railway monitoring system using computer vision.
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -130,4 +106,4 @@ Email
 
 ---
 
-⭐ Building scalable **AI-powered full-stack systems**
+⭐ Building scalable **AI-powered full-stack scalable systems**
