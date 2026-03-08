@@ -8,7 +8,9 @@
 
 ## 🚀 About Me
 
-Software Developer **@ Zarthi** building **production-grade full-stack systems** with a strong focus on scalable backend architecture and AI integrations.
+Software Developer **@ Zarthi** building **production-grade full-stack systems** using the MERN stack and modern cloud platforms.  
+Experienced in designing **scalable backend architectures, clean REST APIs, and high-performance web applications** deployed in real production environments.  
+Passionate about **AI-integrated applications, distributed systems, and solving complex engineering problems at scale.**
 
 <p align="center">
 
@@ -64,17 +66,10 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 <img src="https://img.shields.io/badge/Commits-1000%2B-2ea44f?style=flat&logo=git&logoColor=white" alt="Commits"/>
 <img src="https://img.shields.io/badge/Production%20Deployments-8%2B-f66a0a?style=flat&logo=docker&logoColor=white" alt="Production Deployments"/>
 <img src="https://img.shields.io/badge/Coding%20Since-2021-6f42c1?style=flat&logoColor=white" alt="Coding Since"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/GitHub%20Contributions-526%2B-181717?style=flat&logo=github&logoColor=white" alt="GitHub Contributions"/>
 <img src="https://img.shields.io/badge/Repositories-52-0366d6?style=flat&logo=github&logoColor=white" alt="Repositories"/>
 <img src="https://img.shields.io/badge/Production%20Systems-8%2B-f66a0a?style=flat&logo=docker&logoColor=white" alt="Production Systems"/>
-
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
