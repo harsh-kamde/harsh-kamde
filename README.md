@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋 I'm Harsh Kamde</h1>
 
-<h3 align="center">
-Full Stack Developer | MERN | AI Integration
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%40+Zarthi;MERN+Full+Stack+Engineer;AI+Integrated+Applications;Scalable+Backend+Systems"/>
 </p>
@@ -16,24 +12,24 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 <p>
 
-<img src="https://img.shields.io/badge/Stack-MERN-3C873A?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Framework-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stack-MERN-4CAF50?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Framework-Next.js-555555?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/API-REST%20%7C%20GraphQL-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/API-REST%20%7C%20GraphQL-FF9800?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/AI-Integration-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/System-Design-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Architecture-Microservices-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-Integration-1E88E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/System-Design-E53935?style=flat-square"/>
+<img src="https://img.shields.io/badge/Architecture-Microservices-8E24AA?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-darkgreen?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Build-Production%20Ready%20Apps-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Build-Production%20Apps-424242?style=flat-square"/>
 
 </p>
 
@@ -43,7 +39,7 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,flask,mongodb,postgres,redis,python,docker,aws,linux"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,flask,python,mongodb,postgres,redis,docker,aws,linux,git,githubactions,graphql,jest"/>
 
 </p>
 
