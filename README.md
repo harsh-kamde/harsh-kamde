@@ -12,17 +12,19 @@ AI-Integrated Full Stack Developer | MERN | Scalable Systems
 
 ## 🚀 About Me
 
-Software Developer **@ Zarthi** with **2+ years of experience building production-grade full-stack applications**.
+Software Developer **@ Zarthi** building **production-grade full-stack systems** with focus on scalable backend architecture and AI integrations.
 
-Focused on developing **scalable web systems with AI integration**, clean backend architecture, and cloud deployments.
+<p>
 
-**Core Focus**
+<img src="https://img.shields.io/badge/MERN-FullStack-3C873A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Integration-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Production-Systems-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System-Design-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Architecture-purple?style=for-the-badge"/>
 
-• Production-ready full-stack applications
-• AI / ML integration in web platforms
-• scalable backend architecture
-• high-performance REST APIs
-• cloud-native deployments
+</p>
+
+2+ years building **real production applications used by active users.**
 
 ---
 
@@ -30,49 +32,89 @@ Focused on developing **scalable web systems with AI integration**, clean backen
 
 ### Frontend
 
-<p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-</p>
 
 ### Backend
 
-<p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-</p>
 
 ### Databases
 
-<p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
-</p>
 
 ### AI / ML
 
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-</p>
 
 ### Cloud & Infrastructure
 
-<p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
-</p>
+
+---
+
+# 🏗 Featured Projects
+
+### 🏥 NirogSathi
+
+<img src="https://img.shields.io/badge/React-FullStack-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/AI-Powered-blue?style=flat-square"/>
+
+AI healthcare platform supporting **patients, doctors and administrators** with disease prediction.
+
+---
+
+### 🍽 SkyHutCafe
+
+<img src="https://img.shields.io/badge/React-Frontend-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb"/>
+
+Production restaurant automation system with **QR ordering and real-time kitchen management**.
+
+---
+
+### 📱 Smart Expense Tracker
+
+<img src="https://img.shields.io/badge/ReactNative-Mobile-61DAFB?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-API-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql"/>
+
+Finance tracking application with **analytics dashboards and secure APIs**.
+
+---
+
+### 🚆 RailNetra
+
+<img src="https://img.shields.io/badge/Python-AI-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/ComputerVision-ML-blue?style=flat-square"/>
+
+AI system for **railway monitoring using computer vision models**.
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner — SISTec National Innovation Hackathon
+🥈 Runner-up — Lake City Hackathon
+🏅 Finalist — Smart India Hackathon
 
 ---
 
@@ -88,7 +130,7 @@ Focused on developing **scalable web systems with AI integration**, clean backen
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=harsh-kamde&theme=tokyonight&hide_border=true"/>
@@ -96,52 +138,18 @@ Focused on developing **scalable web systems with AI integration**, clean backen
 
 ---
 
-# 🏗 Featured Projects
-
-### 🏥 NirogSathi
-
-AI-powered healthcare platform supporting **patients, doctors, and administrators** with disease prediction and appointment systems.
-
-Tech: React • Node.js • MongoDB • Python
-
----
-
-### 🍽 SkyHutCafe
-
-Production restaurant automation system with **QR-based ordering and real-time kitchen management**.
-
-Tech: React • Node.js • MongoDB
-
----
-
-### 📱 Smart Expense Tracker
-
-Cross-platform finance tracking application with **analytics dashboards and secure APIs**.
-
-Tech: React Native • Node.js • PostgreSQL
-
----
-
-### 🚆 RailNetra
-
-AI-based railway monitoring system using **computer vision models for automated detection**.
-
-Tech: Python • ML • Mobile Integration
-
----
-
-# 🏆 Achievements
-
-🥇 Winner — SISTec National Innovation Hackathon
-🥈 Runner-up — Lake City Hackathon
-🏅 Finalist — Smart India Hackathon
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-kamde&theme=react-dark"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
