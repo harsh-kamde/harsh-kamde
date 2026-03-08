@@ -1,69 +1,129 @@
-# 👋 Hey, I'm Harsh Kamde 👨‍💻
+<h1 align="center">Hi 👋, I'm Harsh Kamde</h1>
+<h3 align="center">Full-Stack Developer | React • Next.js • Node.js</h3>
 
-### Full-Stack Developer
-
----
-
-## 🚀 About Me
-
-* 💼 Full-Stack Developer with **2+ years experience**
-* 🏢 Currently working as **Software Developer @ Zarthi**
-* ⚡ Building scalable apps using **React, Next.js, Node.js**
-* ☁️ Experienced with **AWS, Docker, Linux & CI/CD**
-* 🏆 **Smart India Hackathon Finalist & Hackathon Winner**
+<p align="center">
+Building scalable web & mobile applications with modern JavaScript stacks 🚀
+</p>
 
 ---
 
-## 🧠 My Favorite Stack
+## 👨‍💻 About Me
 
-![React](https://img.shields.io/badge/REACT-black?style=for-the-badge\&logo=react)
+• 💼 Full-Stack Developer with **2+ years of professional & freelancing experience**
+• 🏢 Currently working as **Software Developer @ Zarthi (Noida)**
+• ⚡ Specialized in **React.js, Next.js, Node.js, and scalable backend systems**
+• 🧠 Experienced in **REST API design, authentication systems, and performance optimization**
+• ☁️ Deploying applications using **AWS, Docker, Linux, and CI/CD pipelines**
 
-![NextJS](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge\&logo=next.js)
+---
 
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge\&logo=typescript)
+## 🚀 Tech Stack
 
-![Tailwind](https://img.shields.io/badge/TAILWIND-blue?style=for-the-badge\&logo=tailwindcss)
+### Frontend
 
-![NodeJS](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge\&logo=node.js)
+React.js • Next.js • React Native • TypeScript • JavaScript
+Redux • Tailwind CSS • HTML • CSS
 
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge\&logo=postgresql)
+### Backend
+
+Node.js • Express.js • REST APIs • JWT Authentication
+Nest.js • Socket.IO
+
+### Databases
+
+PostgreSQL • MongoDB • MySQL • Supabase
+
+### Cloud & DevOps
+
+AWS (EC2, S3) • Docker • Nginx • Linux
+Vercel • DigitalOcean • CI/CD
 
 ---
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh-kamde\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harsh-kamde&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kamde&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
 ### 🩺 Nirogsathi
 
-Healthcare platform with **AI disease prediction**
+Multi-role healthcare platform for **patients, doctors, and administrators**
 
-https://www.nirogsathi.com
+Tech Stack: React.js • Node.js • MongoDB • AI/ML
 
-### 🍽️ SkyHutCafe
-
-Restaurant ordering platform with **QR ordering**
-
-https://www.skyhutcafe.in
-
-### 🏆 SIH Platform
-
-Hackathon management system for **70+ teams**
-
-https://www.sistecrsih.in
+• Appointment system handling **1000+ bookings**
+• Role-based authentication & secure APIs
+• AI-based disease prediction module
 
 ---
 
-## 🤝 Connect With Me
+### 🍽️ SkyHutCafe
 
-💼 LinkedIn
-https://www.linkedin.com/in/harsh-kamde
+Live restaurant ordering & reservation platform
 
-📧 Email
-[harshkamde4321@gmail.com](mailto:harshkamde4321@gmail.com)
+Tech Stack: React.js • Node.js • MongoDB
+
+• Implemented **QR-based table ordering system**
+• Reduced manual restaurant workload by **20%**
+• Complete order lifecycle management
+
+---
+
+### 🏆 SIH Platform
+
+Hackathon management system handling **70+ teams**
+
+Tech Stack: React.js • Node.js • MongoDB
+
+• Team registration & workflow automation
+• Admin dashboard for evaluation and management
+
+---
+
+### 📱 Smart Expense Tracker
+
+Cross-platform mobile application for budgeting
+
+Tech Stack: React Native • Node.js • PostgreSQL
+
+• Expense analytics dashboard
+• Budget alerts and transaction tracking
+
+---
+
+## 🏆 Achievements
+
+🥇 Winner – **SISTec National Innovation Hackathon** (1st among 70+ teams)
+🥈 Runner-up – **Lake City Hackathon** (2nd among 50+ teams)
+🏅 Finalist – **Smart India Hackathon 2023**
+
+---
+
+## 📚 Certifications
+
+• Next.js Full-Stack App Development (Udemy)
+• Nest.js Modern Backend Development (Udemy)
+• React Native Specialization (Coursera)
+• Google Project Management (Coursera)
+• Cisco Networking Essentials
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/harsh-kamde
+💻 GitHub: https://github.com/harsh-kamde
+📧 Email: [harshkamde4321@gmail.com](mailto:harshkamde4321@gmail.com)
+
+---
+
+⭐ *Building scalable systems and impactful products.*
