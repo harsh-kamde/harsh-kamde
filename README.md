@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Software Developer **@ Zarthi** building **production-grade full-stack systems** with scalable backend architecture and AI integrations.
+Software Developer **@ Zarthi** building **production-grade full-stack systems** with a strong focus on scalable backend architecture and AI integrations.
 
 <p align="center">
 
@@ -35,7 +35,7 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,flask,python,mongodb,postgres,redis,docker,aws,linux,git,githubactions,graphql,jest"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,flask,python,mongodb,postgres,redis,docker,aws,linux,git,githubactions,graphql,jest" />
 
 </p>
 
@@ -43,27 +43,25 @@ Software Developer **@ Zarthi** building **production-grade full-stack systems**
 
 ## 🏗 Featured Projects
 
-<p align="center">
+**NirogSathi**  
+AI-powered healthcare platform with appointment management and disease prediction.  
+🔗 https://www.nirogsathi.com
 
-<b>NirogSathi</b>  
-AI-powered healthcare platform with appointment system and disease prediction.
+---
 
-<br/>
+**SkyHutCafe**  
+Restaurant automation platform with QR ordering and real-time order lifecycle management.  
+🔗 https://www.skyhutcafe.in
 
-<b>SkyHutCafe</b>  
-Restaurant automation platform with QR ordering and order lifecycle management.
+---
 
-<br/>
+**Smart Expense Tracker**  
+Cross-platform finance tracking application with analytics dashboards.
 
-<b>Smart Expense Tracker</b>  
-Cross-platform finance tracking application with analytics dashboard.
+---
 
-<br/>
-
-<b>RailNetra</b>  
+**RailNetra**  
 AI-powered railway monitoring system using computer vision models.
-
-</p>
 
 ---
 
@@ -107,7 +105,7 @@ AI-powered railway monitoring system using computer vision models.
 
 🥇 Winner — SISTec National Innovation Hackathon  
 🥈 Runner-up — Lake City Hackathon  
-🏅 Finalist — Smart India Hackathon  
+🏅 Finalist — Smart India Hackathon
 
 ---
 
@@ -120,7 +118,7 @@ GitHub
 https://github.com/harsh-kamde  
 
 Email  
-harshkamde4321@gmail.com  
+harshkamde4321@gmail.com
 
 ---
 
