@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 Software Developer **@ Zarthi** building **production-grade full-stack systems** with **React Native, Next.js, MERN, and cloud-native architectures**, serving **50K+ DAU and millions of users.**
-
 Delivered **scalable backend systems, high-throughput APIs, and GenAI-powered SaaS platforms** including **conversation-driven automation** and **intelligent data querying.**
 
 <p align="center">
