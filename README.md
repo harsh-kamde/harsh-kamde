@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Harsh Kamde</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%40+Zarthi;MERN+Full+Stack+Engineer;AI+Integrated+Applications;Scalable+Backend+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%40+Zipnom;MERN+Full+Stack+Engineer;AI+Integrated+Applications;Scalable+Backend+Systems"/>
 </p>
 
 ## 🚀 About Me
