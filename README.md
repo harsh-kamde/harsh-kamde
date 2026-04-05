@@ -61,12 +61,14 @@ Delivered **scalable backend systems, high-throughput APIs, and GenAI-powered Sa
 
 <img src="https://img.shields.io/badge/Repositories-52%2B-0366d6?style=flat&logo=github&logoColor=white" alt="Repositories"/>
 <img src="https://img.shields.io/badge/Production%20Systems-10%2B-f66a0a?style=flat&logo=docker&logoColor=white" alt="Production Systems"/>
-<img src="https://img.shields.io/badge/Users%20Served-50K%2B%20DAU-2e7d32?style=flat&logo=googleanalytics&logoColor=white" alt="Users Served"/>
+<img src="https://img.shields.io/badge/Users%20Served-50K%2B-2e7d32?style=flat&logo=googleanalytics&logoColor=white" alt="Users Served"/>
+<img src="https://img.shields.io/badge/Systems%20Designed-15%2B-8E24AA?style=flat&logo=databricks&logoColor=white" alt="Systems Designed"/>
 <img src="https://img.shields.io/badge/LinkedIn%20Followers-5.1K%2B-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Followers"/>
 <img src="https://img.shields.io/badge/Coding%20Since-2021-6f42c1?style=flat&logoColor=white" alt="Coding Since"/>
 <img src="https://img.shields.io/badge/GitHub%20Contributions-900%2B-181717?style=flat&logo=github&logoColor=white" alt="GitHub Contributions"/>
 
 </p>
+
 
 ## 🔥 Contribution Streak
 
