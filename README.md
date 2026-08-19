@@ -60,7 +60,7 @@ Delivered **scalable backend systems, high-throughput APIs, and GenAI-powered Sa
 <p align="center">
 
 <img src="https://img.shields.io/badge/Repositories-52%2B-0366d6?style=flat&logo=github&logoColor=white" alt="Repositories"/>
-<img src="https://img.shields.io/badge/Production%20Systems-10%2B-f66a0a?style=flat&logo=docker&logoColor=white" alt="Production Systems"/>
+<img src="https://img.shields.io/badge/Production%20Systems-15%2B-f66a0a?style=flat&logo=docker&logoColor=white" alt="Production Systems"/>
 <img src="https://img.shields.io/badge/Users%20Served-50K%2B-2e7d32?style=flat&logo=googleanalytics&logoColor=white" alt="Users Served"/>
 <img src="https://img.shields.io/badge/Systems%20Designed-15%2B-8E24AA?style=flat&logo=databricks&logoColor=white" alt="Systems Designed"/>
 <img src="https://img.shields.io/badge/LinkedIn%20Followers-5.1K%2B-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Followers"/>
