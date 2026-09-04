@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Software Developer **@ Zipnom** building **production-grade full-stack systems** with **React Native, Next.js, MERN, and cloud-native architectures**, serving **50K+ DAU and millions of users.**
+Software Developer **@ Zipnom** building **production-grade full-stack systems** with **Gen AI, Next.js, MERN, and cloud-native architectures**, serving **50K+ DAU and millions of users.**
 Delivered **scalable backend systems, high-throughput APIs, and GenAI-powered SaaS platforms** including **conversation-driven automation** and **intelligent data querying.**
 
 <p align="center">
@@ -48,9 +48,10 @@ Delivered **scalable backend systems, high-throughput APIs, and GenAI-powered Sa
 
 | Project | Description | Live |
 |--------|-------------|------|
+| **AeroCare** | Production-oriented Generative AI application that analyzes aircraft flight sensor data and generates AI-powered maintenance recommendations | - |
+| **CorpStream** | An MCP (Model Context Protocol) server that aggregates freshly registered companies from 4+ global registries daily. | - |
 | **NirogSathi** | AI-powered healthcare platform with appointment management and disease prediction. | https://www.nirogsathi.com |
 | **SkyHutCafe** | Restaurant automation system with QR-based ordering and real-time order lifecycle management. | https://www.skyhutcafe.in |
-| **SISTec SIH Platform** | Hackathon management platform for team registrations, evaluation workflows, and coordination. | https://www.sistecrsih.in |
 | **RailNetra** | AI-powered railway monitoring system using computer vision models. | — |
 
 ---
