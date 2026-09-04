@@ -50,9 +50,8 @@ Delivered **scalable backend systems, high-throughput APIs, and GenAI-powered Sa
 |--------|-------------|------|
 | **AeroCare** | Production-oriented Generative AI application that analyzes aircraft flight sensor data and generates AI-powered maintenance recommendations | https://github.com/harsh-kamde/AeroCare |
 | **CorpStream** | An MCP (Model Context Protocol) server that aggregates freshly registered companies from 4+ global registries daily. | https://github.com/harsh-kamde/CorpStream |
-| **NirogSathi** | AI-powered healthcare platform with appointment management and disease prediction. | https://www.nirogsathi.com |
+| **HireMind** | AI full-stack job portal built with a microservices, React, Kafka, and backend APIs for auth, user, job, payment, and utility workflows. | https://github.com/harsh-kamde/HireMind |
 | **SkyHutCafe** | Restaurant automation system with QR-based ordering and real-time order lifecycle management. | https://www.skyhutcafe.in |
-| **RailNetra** | AI-powered railway monitoring system using computer vision models. | — |
 
 ---
 
